@@ -10,7 +10,8 @@
 ## You can follow me in social media:
 - Twitter: @_demiurgo
 - LinkedIn: https://www.linkedin.com/in/damian-zamora-r/
-
+### Or read my posts on Medium:
+- https://damzar.medium.com/
 
 <!---
 DamianZAR/DamianZAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
