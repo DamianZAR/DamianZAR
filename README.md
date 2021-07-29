@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning **python**, and some years ago I coded in Fortran and a little bit in C
 - 💞️ I’m looking to collaborate on **data analysis, data visualization and Machine Learning models**.
 
-### Two passions:
+### I like:
+- Data Science
 - 📡 Geospatial data processing
 - 🎧 Signal processing
 
