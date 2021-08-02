@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **data analysis, data visualization and Machine Learning models**.
 
 ### I like:
-- Data Science
+- 📊 Data Science
 - 📡 Geospatial data processing
 - 🎧 Signal processing
 
