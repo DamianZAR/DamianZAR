@@ -8,7 +8,8 @@
 - 📡 Geospatial data processing
 - 🎧 Signal processing
 
-## You can connect with me:
+## Contact
+### You can connect with me:
 - LinkedIn: https://www.linkedin.com/in/damian-zamora-r/
 ### Or read my posts on Medium:
 - https://damzar.medium.com/
