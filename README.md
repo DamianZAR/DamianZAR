@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning **python**, and some years ago I coded in Fortran and a little bit in C
 - 💞️ I’m looking for to collaborate on **data analysis, data visualization and Machine Learning models**.
 
-### I like:
+### I am interesting in:
 - 📊 Data Science
 - 📡 Geospatial data processing
-- 🎧 Signal processing
 
 ## Contact
 ### You can connect with me:
